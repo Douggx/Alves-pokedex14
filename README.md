@@ -28,7 +28,7 @@ https://scattered-birds.surge.sh/
 
 ### O que aprendi
 
-Douglas: - Apartir desse projeto passei a me sentir mais confortavel com manipulações de array, reforcei bastante o uso de renderização condicional usando props pelo styled components e ganhei mais experiencia com uma API mais inflada!
+Douglas: - Apartir desse projeto passei a me sentir mais confortavel com manipulações de array, reforcei bastante o uso de renderização condicional usando props pelo styled components e ganhei mais experiencia com uma API mais complexa!
 
 ### Imagens
 
